@@ -4,7 +4,7 @@ const sources = {
     title: 'View From A Blue Moon',
     sources: [
       {
-        src: 'https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4',
+        src: 'https://cdn.discordapp.com/attachments/954069897598599220/986344091799388220/347aidan_MEMORIES_Bass_Boosted_14-06-22.mp3',
         type: 'video/mp4',
         size: 576,
       },
@@ -49,7 +49,7 @@ const sources = {
     title: 'Kishi Bashi &ndash; &ldquo;It All Began With A Burst&rdquo;',
     sources: [
       {
-        src: 'https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3',
+        src: 'https://cdn.discordapp.com/attachments/954069897598599220/986344091799388220/347aidan_MEMORIES_Bass_Boosted_14-06-22.mp3',
         type: 'audio/mp3',
       },
       {
